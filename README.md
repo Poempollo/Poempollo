@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋, I'm Javier</h1>
+<h1 align="left">Hi 👋, I'm Javier — Full Stack Developer in the making</h1>
 
 ###
 
-<p align="left">💻 Developer passionate about building cool things and constantly learning new tech.</p>
+<p align="left">💻 Developer passionate about building cool things, learning new technologies and turning long nights into code.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poempollo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poempollo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poempollo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poempollo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -93,24 +93,39 @@
 
 ###
 
+<h3 align="left">📌 Featured Projects</h3>
+
+<ul>
+  <li><a href="https://github.com/Poempollo/codi-generator">🧠 Codi Generator</a> — Password manager built with TS + Bootstrap</li>
+  <li><a href="https://github.com/Poempollo/Guff">📱 Guff</a> — Group project, a Pet Social Network</li>
+</ul>
+
+###
+
 <h4 align="left">🏆 More stats</h4>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Poempollo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Poempollo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Poempollo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Poempollo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Poempollo/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
