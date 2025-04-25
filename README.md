@@ -96,7 +96,7 @@
 <h3 align="left">📌 Featured Projects</h3>
 
 <ul>
-  <li><a href="https://github.com/Poempollo/codi-generator">🧠 Codi Generator</a> — Password manager built with TS + Bootstrap</li>
+  <li><a href="https://github.com/Poempollo/Codi">🧠 Codi Generator</a> — Password manager built with TS + Bootstrap</li>
   <li><a href="https://github.com/Poempollo/Guff">📱 Guff</a> — Group project, a Pet Social Network</li>
 </ul>
 
