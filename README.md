@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Developer passionate about building cool things, learning new technologies and turning long nights into code.</p>
+<p align="left">💻 Developer passionate about building cool things, learning new technologies and turning long nights into code!</p>
 
 ###
 
